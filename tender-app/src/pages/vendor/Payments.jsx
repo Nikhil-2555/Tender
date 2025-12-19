@@ -17,8 +17,8 @@ const Payments = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                    <p className="text-gray-500 text-sm mb-1">Total Earnings</p>
                     <h3 className="text-3xl font-bold text-gray-900">$110,000</h3>
+                    <p className="text-gray-500 text-sm mb-1">Total Earnings</p>
                 </div>
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100 shadow-sm">
                     <p className="text-blue-600 text-sm mb-1 flex items-center gap-1"><Lock size={12} /> Locked in Escrow</p>
