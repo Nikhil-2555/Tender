@@ -21,3 +21,6 @@
 - AI-Powered Tender Analysis
 - Role-based Dashboards (Authority & Vendor)
 - Secure Authentication
+
+## Contribution Verification
+- Test commit to verify GitHub activity graph updates.
